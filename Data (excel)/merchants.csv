@@ -1,0 +1,57 @@
+merchant_id,merchant_name,merchant_category,is_high_risk_category,transaction_count,fraud_count,fraud_rate,total_volume,avg_transaction_amount
+MER0001,FreshMart,Grocery,0,639,18,2.80%,"48,772.52",76.33
+MER0002,GreenBasket Grocers,Grocery,0,609,20,3.30%,"46,486.73",76.33
+MER0003,Urban Grocery Co.,Grocery,0,668,19,2.80%,"51,170.18",76.6
+MER0004,SuperSave Foods,Grocery,0,577,16,2.80%,"43,455.61",75.31
+MER0005,TechWorld Electronics,Electronics,1,258,16,6.20%,"143,710.25",557.02
+MER0006,ByteHub Store,Electronics,1,278,23,8.30%,"158,363.67",569.65
+MER0007,CircuitCity Direct,Electronics,1,292,20,6.80%,"161,069.14",551.61
+MER0008,GadgetZone,Electronics,1,285,18,6.30%,"153,860.57",539.86
+MER0009,SkyLine Airways,Travel & Airlines,0,155,2,1.30%,"119,906.31",773.59
+MER0010,GlobalWings Travel,Travel & Airlines,0,145,2,1.40%,"110,193.58",759.96
+MER0011,TransCity Airlines,Travel & Airlines,0,145,2,1.40%,"119,341.33",823.04
+MER0012,Voyager Air,Travel & Airlines,0,141,3,2.10%,"114,537.53",812.32
+MER0013,Grand Horizon Hotels,Hotels & Lodging,0,151,5,3.30%,"76,227.25",504.82
+MER0014,StayEasy Inn,Hotels & Lodging,0,150,3,2.00%,"76,204.52",508.03
+MER0015,Metropolitan Suites,Hotels & Lodging,0,156,3,1.90%,"73,087.92",468.51
+MER0016,Comfort Nest Lodging,Hotels & Lodging,0,166,4,2.40%,"76,553.26",461.16
+MER0017,Bella Cucina,Restaurants,0,497,19,3.80%,"29,352.71",59.06
+MER0018,The Grill House,Restaurants,0,555,15,2.70%,"31,157.63",56.14
+MER0019,Spice Route Kitchen,Restaurants,0,568,19,3.30%,"34,877.55",61.4
+MER0020,Cafe Lumiere,Restaurants,0,567,25,4.40%,"35,793.50",63.13
+MER0021,ShopSphere,Online Retail,0,662,19,2.90%,"91,977.92",138.94
+MER0022,QuickCart Online,Online Retail,0,649,25,3.90%,"94,892.69",146.21
+MER0023,MarketPlace Direct,Online Retail,0,644,14,2.20%,"89,766.11",139.39
+MER0024,OneClick Retail,Online Retail,0,625,23,3.70%,"86,845.64",138.95
+MER0025,Urban Threads,Fashion & Apparel,0,369,7,1.90%,"45,986.33",124.62
+MER0026,StyleHouse Boutique,Fashion & Apparel,0,369,9,2.40%,"46,517.93",126.06
+MER0027,TrendLine Apparel,Fashion & Apparel,0,361,12,3.30%,"42,832.05",118.65
+MER0028,Chic Avenue,Fashion & Apparel,0,364,12,3.30%,"45,422.03",124.79
+MER0029,CineStar Theaters,Entertainment,0,275,8,2.90%,"19,083.69",69.4
+MER0030,PlayZone Entertainment,Entertainment,0,270,7,2.60%,"17,725.68",65.65
+MER0031,StreamBox Media,Entertainment,0,302,5,1.70%,"21,348.38",70.69
+MER0032,GameSphere,Entertainment,0,238,10,4.20%,"16,573.38",69.64
+MER0033,PetroMax Station,Fuel & Gas Stations,0,436,13,3.00%,"28,232.98",64.75
+MER0034,QuickFuel Stop,Fuel & Gas Stations,0,468,18,3.80%,"29,718.60",63.5
+MER0035,National Gas & Go,Fuel & Gas Stations,0,444,13,2.90%,"26,786.73",60.33
+MER0036,CarePlus Pharmacy,Healthcare & Pharmacy,0,267,6,2.20%,"26,093.86",97.73
+MER0037,Wellness Drug Store,Healthcare & Pharmacy,0,294,10,3.40%,"29,480.79",100.27
+MER0038,MediFirst Clinic,Healthcare & Pharmacy,0,240,9,3.80%,"24,929.49",103.87
+MER0039,MetroPower Utility,Utilities,0,201,5,2.50%,"32,319.44",160.79
+MER0040,CityLink Telecom,Utilities,0,206,8,3.90%,"29,287.96",142.17
+MER0041,AquaFlow Water Services,Utilities,0,221,10,4.50%,"32,969.37",149.18
+MER0042,BuildRight Hardware,Home Improvement,0,172,4,2.30%,"34,632.15",201.35
+MER0043,HomeStyle Depot,Home Improvement,0,174,3,1.70%,"32,017.91",184.01
+MER0044,Fixit Supply Co.,Home Improvement,0,163,4,2.50%,"31,422.27",192.77
+MER0045,FixMyDevice,Electronics Repair,0,74,3,4.10%,"12,940.56",174.87
+MER0046,ReBoot Repairs,Electronics Repair,0,67,2,3.00%,"9,301.61",138.83
+MER0047,Aurelia Jewelers,Jewelry & Luxury Goods,1,38,3,7.90%,"61,093.84","1,607.73"
+MER0048,Prestige Luxury House,Jewelry & Luxury Goods,1,41,1,2.40%,"55,513.17","1,353.98"
+MER0049,Sterling & Stone,Jewelry & Luxury Goods,1,49,5,10.20%,"79,708.70","1,626.71"
+MER0050,CoinBridge Exchange,Crypto & Digital Assets,1,54,2,3.70%,"67,556.95","1,251.05"
+MER0051,DigitalVault Trading,Crypto & Digital Assets,1,63,6,9.50%,"84,829.14","1,346.49"
+MER0052,LuckySpin Casino Online,Gambling & Betting,1,50,2,4.00%,"15,678.88",313.58
+MER0053,BetEdge Wagers,Gambling & Betting,1,51,7,13.70%,"16,486.26",323.26
+MER0054,QuickSend Transfer,Money Transfer Services,1,35,3,8.60%,"22,161.62",633.19
+MER0055,GlobalPay Remit,Money Transfer Services,1,34,4,11.80%,"21,231.91",624.47
+MER0056,InstantWire Services,Money Transfer Services,1,32,1,3.10%,"20,005.31",625.17
